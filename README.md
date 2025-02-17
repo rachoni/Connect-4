@@ -1,5 +1,7 @@
 # Connect 4
 
+![Tic Tac Toe Screenshot](thumb-40.png)
+
 This is a **Python-based console game** implementing the classic **Connect 4**. The game is structured using a **modular file organization**, making it easy to expand and maintain.
 
 ## Features:
